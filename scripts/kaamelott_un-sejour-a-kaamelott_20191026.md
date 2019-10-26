@@ -3,16 +3,23 @@
 Au cours d'un séjour dans l'enceinte du chateau, cette rétrospective aborde quatre axes de réflexion : les points positifs, les points d’améliorations, les idées en tout genre, et enfin les questions, craintes et doutes.
 
 **Temps**
+
 Vous pouvez ajuster le temps de réflexion de chaque étape selon vos besoins.
 
 **Deux variantes de debrief**
+
 Debrief immédiat : chaque participant partage ses post-its à la fin du temps de chaque axe de réflexion. 
+
 Debrief final : chaque participant partage ses post-its au moment sur la fin, pour rechercher des actions.
+
 Des indications sont présentes dans le scénario pour préciser comment faire les variantes.
 
 **Mise en page**
+
 Les grands titres sont là pour marquer visuellement une séparation.
+
 *Les paragraphes en italique sont les passages à narrer.*
+
 > Les paragraphes en citation sont des indications pour le facilitateur.
 
 # Le scénario
@@ -76,8 +83,11 @@ Les grands titres sont là pour marquer visuellement une séparation.
 *Après les avoir observé quelques minutes, vous avez découvert que ces deux-là regorgeaient d'idées.*
 
 *- Casser de façon péremptoire les plaques pour plus d'efficacité.*
+
 *- Essayer d'utiliser tout type d'objet à disposition, comme le fenouil, pour se défendre.*
+
 *- Etre à 30 degrés pour mieux attaquer.*
+
 *- etc.*
 
 *Vous avez donc eu envie de partager vos propres idées, même les plus folles.*
@@ -94,7 +104,9 @@ Les grands titres sont là pour marquer visuellement une séparation.
 *Vous y avez retrouvé Yvain et Gauvain, qui ont posé tout un tas de question.*
 
 *- Est-ce qu'on peut s'en servir pour donner de l'élan à un pigeon ?*
+
 *- La chevalerie, c'est pas là où on range les chevaux ?*
+
 *- Est-ce que c'est à roulette fixe ?*
 
 *Perceval en a profité pour vous expliquer sa botte secrète : dire "c'est pas faux" quand vous ne comprenez pas, mais qu'il était aussi important de dire qu'on ne sait pas.*
