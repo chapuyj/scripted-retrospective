@@ -8,7 +8,7 @@ Le scénario apporte de l'immersion dans un univers, de la gamification, et perm
 
 Ce repository rassemble les différents scripts suivant ce format de rétrospective. Chaque script possède sa propre histoire et son propre univers, ainsi que ses propres axes d'introspection. Les libertés offertes à un scénario sont immenses, la seule limite est notre imagination. Les nouvelles idées et contributions sont les bienvenues !
 
-**Si vous voulez en savoir plus, je détaille davantage le concept et la création de ce format dans [cet article](https://medium.com/@chapuyj/sc%C3%A9narisez-votre-r%C3%A9trospective-avec-kaamelott-34b7b2b69a19?source=friends_link&sk=aeb217ed54cfe5a9f48de4ecab8ad460).**
+**Si vous voulez en savoir plus, je détaille davantage le concept et la création de ce format dans [cet article](https://jordanchapuy.com/posts/2019/10/scenarisez-votre-retrospective-avec-kaamelott/).**
 
 ## Comment ça marche ?
 
@@ -20,7 +20,7 @@ Le script contient tous les détails. Le texte à conter, les temps de pause, de
 
 Les fans de Kaamelott ont adoré retrouver l’environnement de leur série fétiche. Cela peut être un bon point de retrouver quelque chose de connu et apprécié, alors pourquoi ne pas étendre ce format à d’autres univers ? C’est dans cette optique que j’ai mis à disposition mon idée sur GitHub : permettre à n’importe qui de **collaborer** et d’**ajouter de nouveaux scénarios**. Ouvrez une pull request sur GitHub ou contactez moi via [Twitter](https://twitter.com/Yupjoo).
 
-Que ce soit pour un univers déjà présent ou un n’ayant pas encore de scénario, une simple variante ou l’exploration d’autres axes, soyez libre. Vous pouvez vous inspirez de mon premier scénario sur Kaamelott pour vous lancer, ou de ma description d’une rétrospective scénarisée (cf. [article](https://medium.com/@chapuyj/sc%C3%A9narisez-votre-r%C3%A9trospective-avec-kaamelott-34b7b2b69a19?source=friends_link&sk=aeb217ed54cfe5a9f48de4ecab8ad460)).
+Que ce soit pour un univers déjà présent ou un n’ayant pas encore de scénario, une simple variante ou l’exploration d’autres axes, soyez libre. Vous pouvez vous inspirez de mon premier scénario sur Kaamelott pour vous lancer, ou de ma description d’une rétrospective scénarisée (cf. [article](https://jordanchapuy.com/posts/2019/10/scenarisez-votre-retrospective-avec-kaamelott/)).
 
 # Liste
 
